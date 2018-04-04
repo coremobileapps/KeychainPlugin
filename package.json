@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coremobileapps/KeychainPlugin.git"
+    "url": "git+https://github.com/coremobileapps/cordova-plugin-ios-keychain.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coremobileapps/KeychainPlugin/issues"
+    "url": "https://github.com/coremobileapps/cordova-plugin-ios-keychain/issues"
   },
-  "homepage": "https://github.com/coremobileapps/KeychainPlugin#readme"
+  "homepage": "https://github.com/coremobileapps/cordova-plugin-ios-keychain#readme"
 }
