@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-ios-keychain",
+  "version": "2.0.0",
+  "description": "Keychain Plugin for Apache Cordova ===================================== created by Shazron Abdullah",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coremobileapps/KeychainPlugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coremobileapps/KeychainPlugin/issues"
+  },
+  "homepage": "https://github.com/coremobileapps/KeychainPlugin#readme"
+}
